@@ -37,7 +37,7 @@ Ako prve sme si vykonali nacitanie obrazka.
 ```
 	Mat image = imread("../../Assigment_1/Tv7.png", IMREAD_GRAYSCALE);
 ```
-[Obrazok](https://github.com/JakubKucecka/PoVid/blob/master/Assigment_1/FullCeils/Tv7.png)
+![Obrazok](https://github.com/JakubKucecka/PoVid/blob/master/Assigment_1/FullCeils/Tv7.png)
 
 Obrazok sme binarizovali pomocou funkcie threshold z grazscale na binarny obrazok.
 ```
