@@ -174,7 +174,7 @@ Vyskusali sme si aj rozmazanie brazka pomocou gausovho filtra.
 ```
 	GaussianBlur(drawing, blur, Size(3, 3), 0);
 ```
-![Rozmazanie gausovym filtrom]()
+![Rozmazanie gausovym filtrom](https://github.com/JakubKucecka/PoVid/blob/master/Assigment_1/FullCeils/Tv7FGaus.png)
 
 Hrany v obrazku sme hladali pomocou canny algoritmu.
 ```
